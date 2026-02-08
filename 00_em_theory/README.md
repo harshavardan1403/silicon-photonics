@@ -1,1 +1,1 @@
-# Eelectromagnetic Theory
+# Electromagnetic Theory
